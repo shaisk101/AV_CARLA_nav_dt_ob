@@ -1,6 +1,6 @@
 How to run the projects:
 
-1- Install Carla Vesrion 0.9.13
+1- Install Carla Vesrion 0.9.14
 
 2- Install ROS2 foxy (Ubuntu 20.04)
 
